@@ -9,8 +9,6 @@
 
 I am a learner of the <strong>ALX Front End and Back End Programs</strong> — a journey that is helping me become a full-stack developer capable of building meaningful, impactful, and creative digital experiences.
 
-This is why I started with software engineering:
-
 > <em>"I learn and adapt quickly — I can build anything I imagine. My creativity is a strength in tech. I want to merge code with culture, and design with purpose."</em>
 
 <h2>🌟 What Inspires Me</h2>
