@@ -1,7 +1,7 @@
 <!-- GitHub Profile README Template -->
   [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 <p>
-<h1 align="center">👋 HI, I'm M'hamed El Alami (aka Simo Alami)</h1>
+<h1 align="center">👋 HELLO, I'm M'hamed El Alami (aka Simo Alami)</h1>
 <p align="center"><em>Creative technologist in training | Full-Stack Developer in progress | Digital nomad at heart</em></p>
 <p align="center">
     <img align="center" alt="visitors" src="https://gpvc.arturio.dev/Sumanth-Talluri" />
