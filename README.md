@@ -4,7 +4,7 @@
 <h1 align="center">HELLO, I'm M'hamed El Alami (aka Simo Alami)</h1>
 <p align="center"><em>Creative technologist in training | Full-Stack Developer in progress | Digital nomad at heart</em></p>
 <p align="center">
-    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/Sumanth-Talluri" />
+  
 </p>
 
 ---
@@ -53,4 +53,4 @@ My aim is to <strong>work remotely as a full-stack developer</strong>, launching
 
 
 
-<h3 align="center">🧠 "Consistency is more powerful than perfection." – My Dev Mantra</h3>
+<h3 align="center">🧠 "Consistency is more powerful than perfection." 
