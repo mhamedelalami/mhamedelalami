@@ -53,4 +53,4 @@ My aim is to <strong>work remotely as a full-stack developer</strong>, launching
 
 
 
-<h3 align="center">🧠 "Consistency is more powerful than perfection." 
+<h3 align="center">🧠"Consistency is more powerful than perfection." 
